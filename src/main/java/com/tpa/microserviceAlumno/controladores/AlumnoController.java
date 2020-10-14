@@ -1,6 +1,7 @@
 package com.tpa.microserviceAlumno.controladores;
 
 import com.tpa.microserviceAlumno.entidades.Alumno;
+import com.tpa.microserviceAlumno.servicios.AlumnoServiceImpl;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
