@@ -17,7 +17,7 @@ import org.hibernate.envers.RevisionEntity;
 import org.hibernate.envers.RevisionNumber;
 import org.hibernate.envers.RevisionTimestamp;
 
-import com.example.persona.config.CustomRevisionListener;
+import com.tpa.microserviceAlumno.config.CustomRevisionListener;
 import lombok.Data;
 
 @Entity
