@@ -1,8 +1,6 @@
 package com.tpa.microserviceAlumno.controladores;
 
-import com.example.persona.entities.Base;
-import com.example.persona.entities.Persona;
-import com.example.persona.services.BaseServiceImpl;
+import com.tpa.microserviceAlumno.entidades.Base;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
