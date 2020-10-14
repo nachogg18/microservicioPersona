@@ -1,6 +1,6 @@
 package com.tpa.microserviceAlumno.config;
 
-import com.example.persona.entities.audit.Revision;
+import com.tpa.microserviceAlumno.entidades.audit.Revision;
 
 import org.hibernate.envers.RevisionListener;
 
