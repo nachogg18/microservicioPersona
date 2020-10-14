@@ -1,6 +1,7 @@
 package com.tpa.microserviceAlumno.controladores;
 
 import com.tpa.microserviceAlumno.entidades.Base;
+import com.tpa.microserviceAlumno.servicios.BaseServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
