@@ -17,10 +17,7 @@ import java.util.Date;
 @Audited
 @Entity
 @Table(name = "alumno")
-public class Alumno {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+public class Alumno extends Base{
 
     @Column(name = "nombre")
     private String nombre;
